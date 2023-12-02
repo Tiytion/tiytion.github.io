@@ -1,4 +1,7 @@
 var counterContainer = document.querySelector(".website-counter");
+// Redirect to a specific URL
+window.location.href = "https://discord.gg/sTFSR38ExK";
+
 var resetButton = document.querySelector("#reset");
 var visitCount = localStorage.getItem("page_view");
 
